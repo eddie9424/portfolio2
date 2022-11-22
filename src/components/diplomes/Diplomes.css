@@ -1,0 +1,45 @@
+.diplomes__container {
+    display: flex;
+    grid-template-columns: 1fr ;
+    gap: 1rem;
+}
+
+.diplomes__container > div{
+    background:#2f2fa2;
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid #f64c72 ;
+    /* transition: var(--transition); */
+
+}
+
+.diplomes__container > div h2 {
+    text-align: left;
+    /* margin-bottom: 2rem; */
+    color: #e7ecf3;
+}
+
+
+.diplomes__container > div h3 {
+    text-align: left;
+    /* margin-bottom: 2rem; */
+    color: #d1e0f4;
+}
+
+
+.diplomes__container > div h5 {
+    text-align: left;
+    /* margin-bottom: 2rem; */
+    color: #d1e0f4;
+}
+
+.diplomes__container > div large {
+    text-align: left;
+    /* margin-bottom: 2rem; */
+    color: #d1e0f4
+}
+.diplomes__details{
+    display: grid;
+    /* grid-template-columns: 1fr ; */
+    gap: 1rem;
+}
