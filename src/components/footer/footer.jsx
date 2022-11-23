@@ -15,7 +15,7 @@ const footer = () => {
       </ul>
       <div className='footer__socials'>
         {/*manage ure following on twitter*/}
-        <a href="https://twitter.com"><IoLogoTwitter/></a>
+        {/* <a href="https://twitter.com"><IoLogoTwitter/></a> */}
       </div>
       <div className="footer__copyright">
         <small>&copy; MOADINE. ALL rights reserved</small>
