@@ -78,7 +78,14 @@ const data = [
     
 
   },
-  
+  {
+    id:10,
+    image:IMG1,
+    title:' Databases with Python: MySQL, SQLite & MongoDB with Python',
+    certificat:'https://www.udemy.com/certificate/UC-43a495ee-c4da-4656-a46f-28fb3ee6add0/',
+    
+
+  },
 
 ]
 
