@@ -70,7 +70,14 @@ const data = [
     
 
   },
+  {
+    id:9,
+    image:IMG1,
+    title:'Docker Course for Beginners',
+    certificat:'https://www.udemy.com/certificate/UC-00161d05-a4b1-4786-ac64-10d7817cae41/',
+    
 
+  },
   
 
 ]
