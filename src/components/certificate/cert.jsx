@@ -62,6 +62,14 @@ const data = [
     
 
   },
+  {
+    id:8,
+    image:IMG1,
+    title:'Data Science: R Programming Complete Diploma 2023 ',
+    certificat:'https://www.udemy.com/certificate/UC-b12cbd8b-d100-45a2-ae49-53fe0fb876e3/',
+    
+
+  },
 
   
 
