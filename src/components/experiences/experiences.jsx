@@ -6,7 +6,7 @@ const experiences = () => {
     <section id='experiences'>
       
       <h5></h5>
-      <h2>Skills</h2>
+      <h2>Compétences</h2>
 
       <div className='container experience__container'>
       <div className='experience__frontend'>
@@ -25,7 +25,7 @@ const experiences = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Sens de l'écoute</h4>
+                <h4>Sens de l'écoute et d'analyse</h4>
                 <small className='text-light'></small>
               </div>
 

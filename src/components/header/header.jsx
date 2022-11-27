@@ -22,17 +22,17 @@ const header = () => {
           d'études d'une durée de 6 mois en Data Science ou en 
           Data Analytics à partir du mois de Janvier 2023.
           DEUG en mathématiques appliquées, 
-          bilingue Anglais, Aspiring Data scientist.
+          bilingue Anglais, Aspiring Data Scientist/Data Analyst.
         
         </h4>
        
         <CTA/>  
         <HeaderSocial/>  
 
-        <h3>
+        {/* <h3>
           "Je veux aider les autres
           à prendre les bonnes décisions, des décisions basées sur les données"
-        </h3>
+        </h3> */}
        
 
 

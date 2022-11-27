@@ -7,10 +7,12 @@ const footer = () => {
       <a href="#"className='footer__logo'>MOADINE</a>
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
-        <li><a href="#about">about</a></li>
-        <li><a href="#experiences">experience</a></li>
+        <li><a href="#about">Profil</a></li>
+        <li><a href="#experiences">Compétences</a></li>
         <li><a href="#services">services</a></li>
-        <li><a href="#portfolio">portfolio</a></li>
+        <li><a href="#portfolio">Projets</a></li>
+        <li><a href="#certificate">certificats</a></li>
+        <li><a href="#diplomes">diplomes</a></li>
         <li><a href="#contact">contact</a></li>
       </ul>
       <div className='footer__socials'>

@@ -4,7 +4,7 @@ import Header from './components/header/header'
 import Nav from './components/nav/nav'
 import About from './components/about/about'
 import Experience from './components/experiences/experiences'
-import Certificate from './components/certificate/cert'
+import Certificates from './components/certificate/certificate'
 import Contact from './components/contact/contact'
 import Footer from './components/footer/footer'
 import Portfolio from './components/portfolio/portfolio'
@@ -19,7 +19,7 @@ const App = () => {
        <Experience/>
        <Services/>
        <Portfolio/>
-       <Certificate/>
+       <Certificates/>
        <Dipl/>
        <Contact/>
        <Footer/>

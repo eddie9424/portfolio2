@@ -1,5 +1,5 @@
 import React from 'react'
-import './cert.css'
+import './certificate.css'
 import IMG1 from '../../assets/udemy.png'
 // import {SiUdemy} from 'react-icons/si'
 
@@ -86,10 +86,6 @@ const data = [
 const certificate = () => {
   return (
     <section id='certificat'>
-      {/* <h5>
-        My recent work
-
-      </h5> */}
       <h2>certificats</h2>
       
       <div className='container certificat__container'>
@@ -104,8 +100,6 @@ const certificate = () => {
               <h3>{title}</h3>
               <div className="certificat__item-cta">
                 <a href={certificat} className='btn' target='_blank'>certificat</a>
-                {/* <a href={demo}className='btn btn-primaty' target='_blank'>Live Demo</a> */}
-
               </div>
 
               </article>

@@ -11,7 +11,7 @@ const about = () => {
   return (
     <section id='about'>
       <h5></h5>
-      <h2>Profile</h2>
+      <h2>Profil</h2>
       <div className='container about__container'> 
         <div className='about__me'>
           <div className='.about__me-image'><img src={ME} alt="About Image" /></div> 
