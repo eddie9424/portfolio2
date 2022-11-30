@@ -6,6 +6,14 @@ import IMG1 from '../../assets/udemy.png'
 
 const data = [
   {
+    id:11,
+    image: IMG1,
+    title:'Tableau Desktop from Scratch-Data Analysis and Visualization',
+    certificat:'https://www.udemy.com/certificate/UC-2080c28c-b0fa-47e1-9083-6629d8356652/',
+    
+
+  },
+  {
     id:1,
     image: IMG1,
     title:'Complete Linear Regression Analysis in Python',
