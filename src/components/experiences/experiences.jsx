@@ -86,19 +86,26 @@ const experiences = () => {
           {/* ***************************Mathématiques ****************************** */}
           {/* •	Algèbre linéaire•	Probabilité•	Statistiques paramétriques•	Statistiques non paramétriques
           •	Statistiques bayésienne•	Analyse univarié et multivarié•	Matrices  */}
-          <h3>Mathématiques pour l'informatique décisionnelle et sciences humaines et sociales</h3>
+          <h3>Statistiques pour l'informatique décisionnelle</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Algébre linéaire</h4>
+                <h4>Analyse descriptive</h4>
                 <small className='text-light'></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Probabilité</h4>
+                <h4>Analyse prédictive</h4>
+                <small className='text-light'></small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icons'/>
+              <div>
+                <h4>Economie comportementale</h4>
                 <small className='text-light'></small>
               </div>
 
@@ -106,7 +113,15 @@ const experiences = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Statistiques paramétriques et non paramétriques</h4>
+                <h4>Statistiques paramétriques</h4>
+                <small className='text-light'></small>
+              </div>
+
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icons'/>
+              <div>
+                <h4>Statistiques non paramétriques</h4>
                 <small className='text-light'></small>
               </div>
 
@@ -122,7 +137,7 @@ const experiences = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Matrices</h4>
+                <h4>Gestion: Business intelligence</h4>
                 <small className='text-light'></small>
               </div>
 
@@ -130,21 +145,21 @@ const experiences = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>Modélisation économétrique dans les sciences humaines et sociales </h4>
+                <h4>Modélisation économétrique du risque</h4>
                 <small className='text-light'></small>
               </div>
 
             </article>
-            {/* <article className='experience__details'>
+            <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-                <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>Marketing quantitatif</h4>
+                <small className='text-light'></small>
               </div>
               
 
             </article>
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
                 <h4>HTML</h4>
@@ -159,7 +174,7 @@ const experiences = () => {
         <div className='experience__frontend'>
           {/* ***************************data analysis ****************************** */}
           {/* develop python libraries for data analysis  */}
-          <h3>Data Analysis / Data visualization / BI</h3>
+          <h3>Outils Data Analysis / Data visualization / BI</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
@@ -240,7 +255,7 @@ const experiences = () => {
         </div>
         <div className='experience__frontend'>
           {/* ---------------------------Machine Leaning and Deep Leaning------------------------------------------ */}
-          <h3>Machine Leaning et Deep Leaning</h3>
+          <h3>Outils Machine Leaning et Deep Leaning</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
@@ -388,9 +403,7 @@ const experiences = () => {
             </article>
           </div>
         </div>
-        <div className='experience__frontend'>
-          {/* ***************************Web devolopments ****************************** */}
-          {/* develop python libraries for data analysis  */}
+        {/* <div className='experience__frontend'>
           <h3>Programmation web</h3>
           <div className="experience__content">
             <article className='experience__details'>
@@ -424,43 +437,9 @@ const experiences = () => {
               </div>
 
             </article>
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icons'/>
-              <div>
-                <h4>Apache Spark</h4>
-                <small className='text-light'></small>
-              </div>
-
-            </article> */}
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icons'/>
-              <div>
-                <h4>QlikView</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-
-            </article> */}
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icons'/>
-              <div>
-                <h4>Tableau</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-              
-
-            </article> */}
-            
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icons'/>
-              <div>
-                <h4>EmailJS</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-              
-
-            </article> */}
+          
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )
