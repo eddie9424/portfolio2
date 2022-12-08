@@ -187,6 +187,14 @@ const experiences = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
+                <h4>Tableau</h4>
+                <small className='text-light'>Avancé</small>
+              </div>
+
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icons'/>
+              <div>
                 <h4>Power BI</h4>
                 <small className='text-light'>Intermédiaire</small>
               </div>
