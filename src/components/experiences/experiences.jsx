@@ -86,7 +86,7 @@ const experiences = () => {
           {/* ***************************Mathématiques ****************************** */}
           {/* •	Algèbre linéaire•	Probabilité•	Statistiques paramétriques•	Statistiques non paramétriques
           •	Statistiques bayésienne•	Analyse univarié et multivarié•	Matrices  */}
-          <h3>Mathématiques pour l'informatique et sciences humaines et sociales</h3>
+          <h3>Mathématiques pour l'informatique décisionnelle et sciences humaines et sociales</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
